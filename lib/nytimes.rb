@@ -1,5 +1,5 @@
 require 'awesome_print'
-
+require 'pry'
 class Nytimes
   DATA = {
   "status": "OK",
@@ -3443,4 +3443,5 @@ class Nytimes
     }
   ]
 }
+
 end
